@@ -1,0 +1,18 @@
+.preview{width:400px; height:310px; margin:0 auto;margin-top: 100px;position: relative;}
+/* smallImg */
+.smallImg{position:relative; height:62px; margin-top:10px;width:300px; overflow:hidden;float:left;}
+.scrollbutton{width:14px; height:50px;margin-top: 5px; overflow:hidden; position:relative; float:left; cursor:pointer; }
+.scrollbutton.smallImgUp , .scrollbutton.smallImgUp.disabled{background:url(../img/d_08.png) no-repeat;}
+.scrollbutton.smallImgDown , .scrollbutton.smallImgDown.disabled{background:url(../img/d_09.png) no-repeat; margin-left:286px; margin-top:-55px;}
+#imageMenu {height:60px; width:280px; overflow:hidden; margin-left:0; float:left;}
+#imageMenu li {height:60px; width:66.8px; overflow:hidden; float:left; text-align:center;}
+#imageMenu li img{width:58px; height:58px;cursor:pointer;border:1px solid #666;margin-left: 6px;}
+/*#imageMenu li#onlickImg img, #imageMenu li:hover img{ width:60px;height:60px;border:1px solid #666;}*/
+/* bigImg */
+.bigImg{position:relative; float:left; width:300px; height:200px; overflow:hidden;}
+.bigImg #midimg{width:300px; height:200px;}
+.bigImg #winSelector{width:100px; height:100px;}
+#winSelector{position:absolute; cursor:crosshair; filter:alpha(opacity=15); -moz-opacity:0.15; opacity:0.15; background-color:#000; border:1px solid #fff;}
+/* bigView */
+#bigView{overflow: hidden; z-index:999;position: absolute;left: 320px;width: 300px!important;height: 200px!important;display: none;}
+#bigView img{position:absolute;width: 500px!important;height:400px!important;}

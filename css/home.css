@@ -1,0 +1,92 @@
+/** reset **/
+@media screen and (max-width: 768px){
+	.logo{margin: 15px 10px 0 0;}
+	.nav-top{width: 100%;}
+	.nav-menu{background:#5a5a5a;width: 100%;display: none;margin-top: -30px;}
+	.nav-menu ul li{border-bottom: 1px solid #4d4d4d;text-align: left;text-indent: 20px;height: 67px;line-height: 67px;width: 100%;font-size: 16px;margin: 0;color: #fff;}
+	.nav-menu ul li a{color: #fff;display: block;}
+	.nav-menu ul li:last-child{margin: 0;}
+	.nav-active:before{display: none;}
+	.nav-active a{color: #fff!important;}
+	.menubtn{display: block;}
+	.submenu{display: block;}
+	.first-banner{height: 180px;}
+	.first-banner h4{top: 40px;}
+	.first-banner i{top: 100px;}
+	.first-banner p{top: 130px;}
+	.item-show-type{width: 100%;overflow: hidden;}
+	.item-show{width: 96%;margin: 15px auto 0 auto;}
+	.item-show-des{width: 49%;padding: 0;text-align: center;height: 220px;}
+	.item-show-des em{float: none;margin-right: 0;margin-top: 10px;}
+	.item-show-des p span b{display: block;}
+	.item-show-des p span{line-height: 30px;}
+	.item-show-des p span:nth-child(2){text-align: left;padding: 0 15px;line-height: 20px;margin-top: 10px;}
+	.common-title{line-height: 65px;text-align: center!important;}
+	.item-list ul li{width: 49%;float: left;margin-right: 0;height: 120px;}
+	.item-list ul li:nth-child(2n){float: right;}
+	.case-pic-box{width: 100%;height: 100px;}
+	.item-list ul li p{font-weight: bold;}
+	.item-list-more{margin-top: 10px;}
+	.about-us{width: 100%;padding: 0 10px;box-sizing: border-box;}
+	.about-mess{width: 100%;position:relative;left: 0;top: 0;}
+	.about-mess ul li{width: 40%;padding-right: 0;margin-bottom: 50px;}
+	.about-mess ul li:nth-child(2n){float: right;}
+	.about-us-box{height: 490px;margin-top: 27px;}
+	.news-box{width: 100%;}
+	.news-type a,.news-type b,.news-index,.swiper_btn,.about-pic,.code,.locate{display: none;}
+	.news-item-ano{width: 100%;margin-right: 0;background: #fff;padding: 0 15px;height: auto;}
+	.news-detail{padding-bottom: 7px;}
+	.mess-input{width: 96%;margin: 0 auto;padding: 0;}
+	.bg_xbdo{position: absolute;height: 780px;}
+	.mess-input ul{width: 90%;margin: 0 auto;padding: 20px 0;}
+	.mess-input ul li{width: 100%;}
+	.mess-input ul li input,.mess-input ul li textarea{width:98%;}
+	.mess-input {height: auto;padding-bottom: 40px;}
+	.submit{width: 90%;margin: 0 auto;}
+	.contact-us{padding-bottom: 50px;}
+	.footer{width: 100%;padding: 0;}
+	.copyright{border-top: none;}
+	.footer-box{height: 53px;}
+	.copyright p{margin-top: 0;}
+	.copyright em{width: 70%;left: 0;margin-left: 15%;top: -3px;}
+	.index-banner1{height: 140px;}
+	.company-about .about-infor{width: 100%;}
+	.company-about .about-mess ul{margin-top: 20px;padding: 30px 0 0 0;}
+	.company-about .about-mess ul li{padding-right: 0;margin-bottom: 40px;}
+	.dowebok{margin-bottom:30px;}
+	.connect p{width: 200px;margin: 0 auto;margin-bottom: 20px;}
+	.connect{background-position-x:46%}
+	.case-pic{width: 100%;height: 100px;}
+	.product-list span{width:auto;padding: 0 5px;height: 30px;line-height: 30px;margin: 5px 0 0 7px;border-radius: 4px;border: 1px solid #cccccc;}
+	.product-list{width: 80%;margin: 30px auto;}
+	.product-list-news span{width: 80px;}
+	.news-inforlist{padding: 0;position: relative;padding: 5px 0;}
+	.infor-time{position: absolute;top: 33px;left: -3px;}
+	.infor-time h4{display: none;}
+	.infor-detail{margin-left: 0;}
+	.infor-detail p{line-height: 20px;margin-top: 25px;}
+	.connect-mess .code,.connect-mess .locate{display: block;}
+	.connect-mess .code{padding-left: 20px;}
+	.connect-mess .locate{padding-top: 0;width: 27%;}
+	.connect-mess .locate:nth-child(3){position: relative;left: -253px;top: 22px;}
+	.return-top{display: none!important;}
+	.pro-intro-loc{width: 99%;}
+	.preview{margin-top: 20px;}
+	#bigView{display: none;}
+	.bigImg{width: 90%;}
+	.bigImg #midimg{width: 100%;}
+	.smallImg{width: 90%;}
+	#imageMenu{width: 95%;}
+	.scrollbutton.smallImgDown{margin-left: 0;float: right;width: 20px;}
+	.M-box{margin-bottom: 30px;}
+	.M-box a{border: none;background: #ccc;color: #5A5A5A;}
+	.M-box .active{background: #808080;}
+	.about-us-box-com{margin-bottom: -70px;}
+	.mess-input ul li textarea{min-height: 100px;}
+	.item-list-more{width: 100%;}
+	.form-tips{left: 87px;top: 165px;}
+	.locate p{line-height: 16px;}
+	.locate p span{display: block;float: left;}
+	.locate p span:nth-child(1){width: 60px;}
+	.locate p span:nth-child(2){width: calc(100% - 65px);}
+	}
